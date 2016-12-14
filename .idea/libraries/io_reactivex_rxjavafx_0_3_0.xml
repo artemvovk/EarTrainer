@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="io.reactivex:rxjavafx:0.3.0" type="repository">
+    <properties maven-id="io.reactivex:rxjavafx:0.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjavafx/0.3.0/rxjavafx-0.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.2.2/rxjava-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjavafx/0.3.0/rxjavafx-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
